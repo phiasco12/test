@@ -4,9 +4,9 @@
   "cordova_name": "HealthKit",
   "description": "Interact with the iOS HealthKit SDK.",
   "license": "MIT",
-  "author": "Telerik / Eddy Verbruggen <eddyverbruggen@gmail.com> (https://github.com/EddyVerbruggen)",
-  "repo": "https://github.com/Telerik-Verified-Plugins/HealthKit.git",
-  "issue": "https://github.com/Telerik-Verified-Plugins/HealthKit/issues",
+  "author": "rooz <rooz@gmail.com> (https://github.com/phiasco12)",
+  "repo": "https://github.com/phiasco12/test.git",
+  "issue": "https://github.com/phiasco12/test/issues",
   "keywords": [
     "Health",
     "HealthKit",
