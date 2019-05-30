@@ -1,6 +1,6 @@
 {
   "version": "0.5.6",
-  "name": "cordova-plugin-healthkit-mindfulness",
+  "name": "test",
   "cordova_name": "HealthKit",
   "description": "Interact with the iOS HealthKit SDK.",
   "license": "MIT",
